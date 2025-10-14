@@ -2,8 +2,7 @@
 - 👀 I’m interested in sytems programming, gamedev, webappdev.
 - 🌱 I’m currently learning react typescript and rust.
 - 💞️ I’m looking to collaborate on any fun project.
-- 📫 How to reach me instagram.com/theslimreaper0..
-- 😄 Pronouns: he/him.
+- 📫 How to reach me instagram.com/felixutong..
 - ⚡ Fun fact: Im also an MMA Fighter.
 
 <!---
