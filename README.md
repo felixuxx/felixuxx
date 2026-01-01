@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @felixuxx
-- 👀 I’m interested in sytems programming, gamedev, webappdev.
-- 🌱 I’m currently learning react typescript and rust.
-- 💞️ I’m looking to collaborate on any fun project.
+- ⚡ I’m interested in sytems programming, gamedev, webappdev.
+- ⚡ I’m currently learning zig and gdscript.
+- ⚡ I’m looking to collaborate on any fun project.
 - 📫 How to reach me x.com/felixutong..
 - ⚡ Fun fact: Im also an MMA Fighter.
 
