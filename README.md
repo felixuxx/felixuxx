@@ -3,7 +3,6 @@
 - ⚡ I’m currently learning zig and gdscript.
 - ⚡ I’m looking to collaborate on any fun project.
 - 📫 How to reach me x.com/felixutong..
-- ⚡ Fun fact: Im also an MMA Fighter.
 
 <!---
 felixuxx/felixuxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
